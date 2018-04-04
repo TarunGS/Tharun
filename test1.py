@@ -1,5 +1,7 @@
 Test file 1
 
-Test 3 committing
+Test 2 committing
 
-Testing 4th commit
+Testing 3th commit
+
+Tested 4th commit
