@@ -1,3 +1,1 @@
 Test file 1
-
-Test File 2
